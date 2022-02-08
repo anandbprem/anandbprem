@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Anand B</h1>
+<h1 align="center">Hi 👋, I'm Anand Basavaraju ( Anand B )</h1>
 <h3 align="center">A passionate frontend, backend developer with multi cloud experience and multiple devops tools from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandbprem&label=Profile%20views&color=0e75b6&style=flat" alt="anandbprem" /> </p>
